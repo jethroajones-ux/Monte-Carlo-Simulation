@@ -1,7 +1,6 @@
 import numpy as np
 import scipy.stats as si
 import matplotlib.pyplot as plt
-import scipy.stats as st
 
 S0 = 100
 r = 0.05
